@@ -1,0 +1,178 @@
+.title {font-family: verdana; sans-serif;
+font-size: 48px;
+color: #B40404;
+}
+#left {font-family: verdana; sans-serif;
+font-size: 48px;
+color: #B40404;}
+
+#right {text-align: right;
+font-size: 48px;
+width:  auto;
+height: auto;
+color: #070233;
+display: inline;
+clear: right;
+float: right;
+    }
+
+.telephone {text-align: right;
+font-size: 48px;
+color: #070233;
+display: right;
+clear: right;
+float: right;
+}
+
+header {
+align-content: flex-start;
+text-align: left;
+clear: left;
+}
+.phone {height: 25px;
+background: #E4C0A0;
+border-bottom: 5px #ac0303;
+}
+
+p.slogan {font-family: veranda; sans-serif;
+font-size: 48px;
+color: navy;
+text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: darkred;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li> <a class="active" href="#home">Home</a></li>
+  <li> <a href="#news">Service</a></li>
+  <li ><a href="#contact">Reviews</a></li>
+  <li> <a href="#about">Contact</a></li>
+</ul>
+body  {
+background-color: #E4C0A0;
+margin-left: 20%
+margin-right:  20%
+border: 1px dotted gray;
+padding: 10px 10px 10px 10px;
+font-family: sans-serif;
+font-size:  16px;
+text-align: center;
+}
+h1 { 
+text-align: center;
+color: #8B0000;
+font-weight: bold;
+}
+h2 {
+text-align: center;
+color:  midnightblue;
+font-weight: bold;
+}
+ {
+display: block;
+margin-left: auto;
+margin-right: auto; }
+
+.blackborder{
+border: 2px solid black
+}
+
+
+p.Email a{
+font-size: 36px;
+color: #8B0000;
+text-align: center;
+display: block;
+margin: 0 auto;
+text-decoration: none;
+}
+h3 {color: #FFD813;
+text-align: center;
+}
+p.address {
+    font-size: 30px; 
+    color: black;
+    text-align:  center;
+    margin: 0 auto;
+    text-decoration: none;
+}
+p.phone {
+    font-size: 48px;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    text-decoration: none;
+}
+a {text-decoration: none;
+}
+a, bottom link{color: black;
+font-size: 38px;
+text-align: center;
+margin: auto 0;
+}
+iframe {
+  text-align: center;
+}
+p.Home {font-size: 80px;
+color: #070233;
+text-align: center;}
+
+.reviews {
+font-size: 42px;
+color: black;
+text-align: center;
+}
+
+.w3-center {
+font-size: 42px;
+font-weight: bold;
+}
+.item {
+  display: relative;
+    width: auto;
+    height: 860px;
+    text-align: center;
+}
+.style {
+.transparent-style{
+    background-color: rgba(255, 255, 255, .4);
+}
+}.carousel-control {
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     width: 15%;
+     font-size: 20px;
+     color: black;
+     text-align: center;
+     /* text-shadow: 0 1px 2px rgba(0,0,0,.6); */
+     /* background-color: rgba(0,0,0,0); */
+     filter: alpha(opacity=50);
+     opacity: .5;
+ }
