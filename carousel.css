@@ -1,0 +1,99 @@
+.title {font-family: arial verdana sans-serif;
+    font-size: 48px;
+    color: #B40404;
+}
+#left {font-family: arial verdana sans-serif;
+    font-size: 48px;
+    color: #B40404;
+}
+
+#right {text-align: right;
+    font-size: 48px;
+    width:  auto;
+    height: auto;
+    color: #070233;
+    display: inline;
+    clear: right;
+    float: right;
+}
+
+.telephone {text-align: right;
+    font-size: 48px;
+    color: #070233;
+    display: right;
+    clear: right;
+    float: right;
+}
+header {
+    align-content: flex-start;
+    text-align: left;
+    clear: left;
+}
+.phone {height: 25px;
+    background: #E4C0A0;
+    border-bottom: 5px #ac0303;
+}
+
+p.slogan {font-family: veranda; sans-serif;
+    font-size: 48px;
+    color: navy;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: darkred;
+}
+<ul>
+ <li> <a class="active" href="#home">Home</a></li>
+                                               <li> <a href="#news">Service</a></li>
+                                                                                 <li ><a href="#contact">Reviews</a></li>
+                                                                                                                      <li> <a href="#about">Contact</a></li>
+                                                                                                                                                         </ul>
+                                                                                                                                                           body  {
+                                                                                                                                                               background-color: #E4C0A0;
+                                                                                                                                                               margin-left: 20%
+                                                                                                                                                               margin-right:  20%
+                                                                                                                                                               border: 1px dotted gray;
+                                                                                                                                                               padding: 10px 10px 10px 10px;
+                                                                                                                                                               font-family: sans-serif;
+                                                                                                                                                               font-size:  16px;
+                                                                                                                                                               text-align: center;
+                                                                                                                                                           }
+h1 {
+    text-align: center;
+    color: #8B0000;
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+    color:  midnightblue;
+    font-weight: bold;
+}
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+.blackborder{
+    border: 2px solid black
+}
