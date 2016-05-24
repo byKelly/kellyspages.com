@@ -97,3 +97,34 @@ h2 {
 .blackborder{
     border: 2px solid black
 }
+p.Home {font-size: 64px;
+    color: #070233;
+    text-align: center;
+}
+p.Email a{
+    font-size: 24px;
+    color: #8B0000;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+}
+p.address {
+    font-size: 26px;
+    color: black;
+    text-align:  center;
+    margin: 0 auto;
+    text-decoration: none;
+}
+p.phone {
+    font-size: 48px;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    text-decoration: none;
+}
+a, .bottom link{color: black;
+    font-size: 23px;
+    text-align: center;
+    margin: auto 0;
+}
