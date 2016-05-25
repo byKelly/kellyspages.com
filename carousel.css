@@ -116,6 +116,11 @@ p.Home {
     color: #070233;
     text-align: center;
 }
+p.servicesprovided {
+    font-size: 64px;
+    color: #070233;
+    text-align: center;
+}
 
 p.Email a {
     font-size: 24px;
