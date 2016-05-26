@@ -152,6 +152,7 @@ a, .bottom link {
     font-size: 23px;
     text-align: center;
     margin: auto 0;
+    font-weight: bold;
 }
 
 a:hover, a:visited, a:link, a:active {
