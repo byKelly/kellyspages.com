@@ -140,7 +140,7 @@ p.address {
 }
 
 p.phone {
-    font-size: 48px;
+    font-size: 26px;
     color: black;
     text-align: center;
     margin: 0 auto;
@@ -160,3 +160,23 @@ a:hover, a:visited, a:link, a:active {
     text-decoration: none;
 }
 img {max-width:100%}
+
+h3 {
+    font-weight: bold;
+    line-height: 32px;
+}
+
+h4, h5 {
+    color: black;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+    color: #140046;
+}
+
+.offers {
+    color:#8B0000;
+    font-size: 34px;
+}
