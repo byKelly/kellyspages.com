@@ -180,3 +180,7 @@ h2 {
     color:#8B0000;
     font-size: 34px;
 }
+
+p.boxed {
+    border: 1px solid #140046;
+}
