@@ -179,6 +179,8 @@ h2 {
 .offers {
     color:#8B0000;
     font-size: 34px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 p.boxed {
@@ -187,4 +189,14 @@ p.boxed {
 
 .tab { 
     margin-left: 40px;
+}
+
+h3 {
+    margin-left:  20px;
+    margin-right: 20px;
+}
+
+.facebook, .twitter {
+   margin-left: 20px;
+    margin-right: 20px; 
 }
