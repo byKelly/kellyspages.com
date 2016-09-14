@@ -37,7 +37,7 @@ header {
 }
 
 .phone {
-    height: 25px;
+    height: 2px;
     background: #E4C0A0;
     border-bottom: 5px #ac0303;
 }
@@ -65,8 +65,9 @@ p.slogan {
 #nav li a {
     display: block;
     color: white;
+    font-size: 20px;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 20px 14px 20px;
     text-decoration: none;
 }
 
@@ -150,7 +151,7 @@ p.phone {
 
 a, .bottom link {
     color: black;
-    font-size: 23px;
+    font-size: 17px;
     text-align: center;
     margin: auto 0;
     font-weight: bold;
